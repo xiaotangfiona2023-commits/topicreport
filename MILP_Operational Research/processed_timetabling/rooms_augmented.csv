@@ -1,0 +1,698 @@
+description,capacity,building,building_1,campus,central_local,room_type,specialist_room_type,has_a_24_5_event,room_id,capacity_source
+"Auditorium A, Shirley Hall (GU108) - No Food or Drink",262.0,2701,Chancellor's Building,Bioquarter,Locally Allocated Space,Specialist Room,General Teaching,Yes,2701_00_GU108,rooms_table
+Auditorium B (GU216) - No Food or Drink,150.0,2701,Chancellor's Building,Bioquarter,Locally Allocated Space,Specialist Room,General Teaching,Yes,2701_00_GU216,rooms_table
+Micro Lab 1 (GU302),20.0,2701,Chancellor's Building,Bioquarter,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,2701_00_GU302,rooms_table
+Micro Lab 2 (GU303),20.0,2701,Chancellor's Building,Bioquarter,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,2701_00_GU303,rooms_table
+Undergraduate Medical Teaching Room (GU318),96.0,2701,Chancellor's Building,Bioquarter,Locally Allocated Space,Specialist Room,General Teaching,Yes,2701_00_GU318,rooms_table
+Seminar Room 2 (GU322/3),48.0,2701,Chancellor's Building,Bioquarter,Locally Allocated Space,Specialist Room,General Teaching,Yes,2701_00_GU322,rooms_table
+Seminar Room 5 (FU222),22.0,2701,Chancellor's Building,Bioquarter,Locally Allocated Space,Specialist Room,General Teaching,Yes,2701_01_FU222,rooms_table
+Seminar Room 4 (FU223),22.0,2701,Chancellor's Building,Bioquarter,Locally Allocated Space,Specialist Room,General Teaching,Yes,2701_01_FU223,rooms_table
+Seminar Room 3 (FU224),22.0,2701,Chancellor's Building,Bioquarter,Locally Allocated Space,Specialist Room,General Teaching,Yes,2701_01_FU224,rooms_table
+Resus Room (FU307) - Clinical Skills Centre,20.0,2701,Chancellor's Building,Bioquarter,Locally Allocated Space,Specialist Room,Teaching Lab,Yes,2701_01_FU307,rooms_table
+Skills Lab (FU308) - Clinical Skills Centre,20.0,2701,Chancellor's Building,Bioquarter,Locally Allocated Space,Specialist Room,Teaching Lab,Yes,2701_01_FU308,rooms_table
+Debrief Room (FU309) - Clinical Skills Centre,1.0,2701,Chancellor's Building,Bioquarter,Locally Allocated Space,Specialist Room,Meeting Room,Yes,2701_01_FU309,rooms_table
+SimMan Room (FU313) - Clinical Skills Centre,12.0,2701,Chancellor's Building,Bioquarter,Locally Allocated Space,Specialist Room,Teaching Lab,Yes,2701_01_FU313,rooms_table
+Simulation Ward (FU321/2) - Clinical Skills Centre,42.0,2701,Chancellor's Building,Bioquarter,Locally Allocated Space,Specialist Room,Teaching Lab,Yes,2701_01_FU321,rooms_table
+Simulation Assessment Area (FU323) - Clinical Skills Centre,22.0,2701,Chancellor's Building,Bioquarter,Locally Allocated Space,Specialist Room,Laboratory,Yes,2701_01_FU323,rooms_table
+Seminar Room (4-H1-003),35.0,9004,Royal Hospital for Children and Young People,Bioquarter,Locally Allocated Space,Classroom Style,General Teaching,Yes,2714_04_4-H1-003,rooms_table
+Paderewski Lecture Theatre,214.0,2305,Western General Hospital,Western General,Locally Allocated Space,Specialist Room,Exhibition/Event Space,Yes,2305_04_4F/4/006,rooms_table
+G.8 Gaddum LT,64.0,208,1 George Square (Neuroscience),Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0208_00_G.8,rooms_table
+1 George Square Basement Labs,48.0,208,1 George Square (Neuroscience),Central,Locally Allocated Space,Specialist Room,Laboratory,Yes,0208_-1_B.1,rooms_table
+Newhaven Lecture Theatre,110.0,131,13-15 South College Street,Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0131_04_4.07,rooms_table
+G.02 * (access at 19GSq) *,40.0,214,16-20 George Square,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0214_00_G.02,rooms_table
+G.22 * (access at 19GSq) *,18.0,214,16-20 George Square,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0214_00_G.22,rooms_table
+G.23 * (access at 19GSq) *,10.0,214,16-20 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0214_00_G.23,rooms_table
+G.26 * (access at 19GSq),12.0,214,16-20 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0214_00_G.26,rooms_table
+1.01 * (access at 19GSq) *,20.0,214,16-20 George Square,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0214_01_1.01,rooms_table
+1.10 * (access at 19GSq) *,18.0,214,16-20 George Square,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0214_01_1.10,rooms_table
+1.22 * (access at 19GSq) *,12.0,214,16-20 George Square,Central,Locally Allocated Space,Boardroom Style,General Teaching,Yes,0214_01_1.22,rooms_table
+1.01,28.0,251,21 Buccleuch Place,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0251_01_1.01,rooms_table
+1.02,28.0,251,21 Buccleuch Place,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0251_01_1.02,rooms_table
+G.01,16.0,219,21 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0219_00_G.01,rooms_table
+G.02,24.0,219,21 George Square,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0219_00_G.02,rooms_table
+1.07,12.0,254,24 Buccleuch Place,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0254_01_1.07,rooms_table
+1.08,16.0,254,24 Buccleuch Place,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0254_01_1.08,rooms_table
+1.09,8.0,254,24 Buccleuch Place,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0254_01_1.09,rooms_table
+1.01,8.0,254,24 Buccleuch Place,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0254_01_1.01,rooms_table
+1.10,14.0,254,24 Buccleuch Place,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0254_01_1.10,rooms_table
+1.12,10.0,254,24 Buccleuch Place,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0254_01_1.12,rooms_table
+1.03,16.0,254,24 Buccleuch Place,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0254_01_1.03,rooms_table
+1.04,16.0,254,24 Buccleuch Place,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0254_01_1.04,rooms_table
+1.05,8.0,254,24 Buccleuch Place,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0254_01_1.5A,rooms_table
+1.06,12.0,254,24 Buccleuch Place,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0254_01_1.06,rooms_table
+1.01,14.0,228,40 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0228_01_1.01,rooms_table
+1.18,12.0,228,40 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0228_01_1.18,rooms_table
+2.18,12.0,228,40 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0228_02_2.18,rooms_table
+3.01,24.0,228,40 George Square,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0228_03_3.01,rooms_table
+4.18,25.0,228,40 George Square,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0228_04_4.18,rooms_table
+7.01,18.0,228,40 George Square,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0228_07_7.01,rooms_table
+7.18,24.0,228,40 George Square,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0228_07_7.18,rooms_table
+9.01,16.0,228,40 George Square,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0228_09_9.01,rooms_table
+9.18,25.0,228,40 George Square,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0228_09_9.18,rooms_table
+11.01,16.0,228,40 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0228_11_11.01,rooms_table
+11.06,18.0,228,40 George Square,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0228_11_11.06,rooms_table
+11.11,15.0,228,40 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0228_11_11.11,rooms_table
+11.18,24.0,228,40 George Square,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0228_11_11.18,rooms_table
+12.18,13.0,228,40 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0228_12_12.18,rooms_table
+13.07,15.0,228,40 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0228_13_13.07,rooms_table
+Lecture Theatre A,350.0,229,40 George Square Lecture Theatres,Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0229_01_1.A,rooms_table
+Lecture Theatre B,250.0,229,40 George Square Lecture Theatres,Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0229_01_1.B,rooms_table
+Lecture Theatre C,250.0,229,40 George Square Lecture Theatres,Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0229_01_1.C,rooms_table
+LG.06  (50 GS Opening Hours),35.0,222,40 George Square Lower Teaching Hub,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0228_-1_LG.06,rooms_table
+LG.07 - Teaching Studio,60.0,222,40 George Square Lower Teaching Hub,Central,Centrally Allocated Space,Teaching Studio,Teaching Studio,Yes,0228_-1_LG.07,rooms_table
+LG.08,36.0,222,40 George Square Lower Teaching Hub,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0228_-1_LG.08,rooms_table
+LG.09,96.0,222,40 George Square Lower Teaching Hub,Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0228_-1_LG.09,rooms_table
+LG.10,36.0,222,40 George Square Lower Teaching Hub,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0228_-1_LG.10,rooms_table
+LG.11,78.0,222,40 George Square Lower Teaching Hub,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0228_-1_LG.11,rooms_table
+G.01,30.0,227,50 George Square,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0227_00_G.01,rooms_table
+G.02,36.0,227,50 George Square,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0227_00_G.02,rooms_table
+Lecture Theatre G.03,255.0,227,50 George Square,Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0227_00_G.03,rooms_table
+Screening Room G.04,100.0,227,50 George Square,Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0227_00_G.04,rooms_table
+G.05,44.0,227,50 George Square,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0227_00_G.05,rooms_table
+G.06,64.0,227,50 George Square,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0227_00_G.06,rooms_table
+1.02 Computer Lab 2,40.0,227,50 George Square,Central,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0227_01_1.02,rooms_table
+Project Room 1.06,60.0,227,50 George Square,Central,Locally Allocated Space,Specialist Room,Meeting Room,Yes,0227_01_1.06,rooms_table
+2.03,18.0,227,50 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0227_02_2.03,rooms_table
+2.13,10.0,227,50 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0227_02_2.13,rooms_table
+2.14,15.0,227,50 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0227_02_2.14,rooms_table
+2.29,15.0,227,50 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0227_02_2.29,rooms_table
+2.30,10.0,227,50 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0227_02_2.30,rooms_table
+2.39,18.0,227,50 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0227_02_2.39,rooms_table
+2.54,18.0,227,50 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0227_02_2.54,rooms_table
+3.03,18.0,227,50 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0227_03_3.03,rooms_table
+3.13,10.0,227,50 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0227_03_3.13,rooms_table
+3.14,15.0,227,50 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0227_03_3.14,rooms_table
+3.29,15.0,227,50 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0227_03_3.29,rooms_table
+3.30,10.0,227,50 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0227_03_3.30,rooms_table
+3.39,18.0,227,50 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0227_03_3.39,rooms_table
+3.54,18.0,227,50 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0227_03_3.54,rooms_table
+F.21,125.0,209,7 George Square,Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0209_01_1.21,rooms_table
+S.1,70.0,209,7 George Square,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0209_02_2.01,rooms_table
+S37,30.0,209,7 George Square,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0209_02_2.37,rooms_table
+Lower Concourse,60.0,209,7 George Square,Central,Locally Allocated Space,Specialist Room,Foyer,Yes,0209_-1_B.Z28,rooms_table
+G.01,20.0,3,7-8 Chambers Street,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0003_00_G.01,rooms_table
+G.02,24.0,3,7-8 Chambers Street,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0003_00_G.02,rooms_table
+G.03,18.0,3,7-8 Chambers Street,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0003_00_G.03,rooms_table
+G.04,12.0,3,7-8 Chambers Street,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0003_00_G.04,rooms_table
+1.01,23.0,3,7-8 Chambers Street,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0003_01_1.01,rooms_table
+1.02,24.0,3,7-8 Chambers Street,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0003_01_1.02,rooms_table
+1.03,24.0,3,7-8 Chambers Street,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0003_01_1.03,rooms_table
+1.04,19.0,3,7-8 Chambers Street,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0003_01_1.04,rooms_table
+1.05,12.0,3,7-8 Chambers Street,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0003_01_1.05,rooms_table
+2.01 - PC Computer Lab,18.0,3,7-8 Chambers Street,Central,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0003_02_2.01,rooms_table
+2.04 (Studio),37.0,3,7-8 Chambers Street,Central,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0003_02_2.04,rooms_table
+3.01 (Studio),28.0,3,7-8 Chambers Street,Central,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0003_03_3.01,rooms_table
+3.02 (Studio),48.0,3,7-8 Chambers Street,Central,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0003_03_3.02,rooms_table
+G.01 (Studio),54.0,5,Adam House,Central,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0005_00_G.01,rooms_table
+1.01 (Studio),65.0,5,Adam House,Central,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0005_01_1.01,rooms_table
+2.01 (Studio),65.0,5,Adam House,Central,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0005_02_2.01,rooms_table
+3.01 (Studio),59.0,5,Adam House,Central,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0005_03_3.01,rooms_table
+Basement Theatre,164.0,5,Adam House,Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0005_-1_B.01,rooms_table
+Atrium (G.10),75.0,110,Alison House,Central,Locally Allocated Space,Specialist Room,ECA Specialist Space,Yes,0110_00_G.10,rooms_table
+Lecture Room B2.01,25.0,110,Alison House,Central,Locally Allocated Space,Classroom Style,General Teaching,Yes,0110_02_2.01,rooms_table
+Faculty Room 2.02,15.0,110,Alison House,Central,Locally Allocated Space,Boardroom Style,General Teaching,Yes,0110_02_2.02,rooms_table
+Lecture Room A2.04,42.0,110,Alison House,Central,Locally Allocated Space,Classroom Style,General Teaching,Yes,0110_02_2.04,rooms_table
+Seminar Room 2.07,12.0,110,Alison House,Central,Locally Allocated Space,Boardroom Style,General Teaching,Yes,0110_02_2.07,rooms_table
+G.05,20.0,201,Appleton Tower,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0201_00_G.05,rooms_table
+M1,20.0,201,Appleton Tower,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0201_01_1.01,rooms_table
+M2 - Teaching Studio,96.0,201,Appleton Tower,Central,Centrally Allocated Space,Teaching Studio,Teaching Studio,Yes,0201_01_1.02,rooms_table
+M3,20.0,201,Appleton Tower,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0201_01_1.05,rooms_table
+2.04,24.0,201,Appleton Tower,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0201_02_2.04,rooms_table
+2.05,24.0,201,Appleton Tower,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0201_02_2.05,rooms_table
+2.06,18.0,201,Appleton Tower,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0201_02_2.06,rooms_table
+2.07,20.0,201,Appleton Tower,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0201_02_2.07,rooms_table
+2.11,28.0,201,Appleton Tower,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0201_02_2.11,rooms_table
+2.12,54.0,201,Appleton Tower,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0201_02_2.12,rooms_table
+2.14,54.0,201,Appleton Tower,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0201_02_2.14,rooms_table
+3.01 - Robotics Lab,42.0,201,Appleton Tower,Central,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0201_03_3.01,rooms_table
+3.09 - Workroom,36.0,201,Appleton Tower,Central,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0201_03_3.09,rooms_table
+4.02 - PPLS Computer Lab,57.0,201,Appleton Tower,Central,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0201_04_4.02,rooms_table
+6.05,14.0,228,40 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0228_06_6.05,rooms_table
+6.10,13.0,228,40 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0228_06_6.10,rooms_table
+6.11,24.0,228,40 George Square,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0228_06_6.11,rooms_table
+4.12,36.0,201,Appleton Tower,Central,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0201_04_4.12,rooms_table
+4.14,13.0,201,Appleton Tower,Central,Locally Allocated Space,Specialist Room,Teaching Lab,Yes,0201_04_4.14,rooms_table
+4.14A,11.0,201,Appleton Tower,Central,Locally Allocated Space,Specialist Room,Teaching Lab,Yes,0201_04_4.14A,rooms_table
+5.01,20.0,201,Appleton Tower,Central,Locally Allocated Space,Specialist Room,Teaching Lab,Yes,0201_05_5.01,rooms_table
+5.04 - Teaching Studio,42.0,201,Appleton Tower,Central,Locally Allocated Space,Specialist Room,Teaching Studio,Yes,0201_05_5.04,rooms_table
+5.05 - West Lab,52.0,201,Appleton Tower,Central,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0201_05_5.05,rooms_table
+5.07 - Teaching Suite,15.0,201,Appleton Tower,Central,Locally Allocated Space,Specialist Room,Teaching Studio,Yes,0201_05_5.07,rooms_table
+6.06,102.0,201,Appleton Tower,Central,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0201_06_6.06,rooms_table
+7.01,20.0,201,Appleton Tower,Central,Locally Allocated Space,Specialist Room,Laboratory,Yes,0201_07_7.01,rooms_table
+7.02,14.0,201,Appleton Tower,Central,Locally Allocated Space,Specialist Room,Teaching Lab,Yes,0201_07_7.02,rooms_table
+7.14,18.0,201,Appleton Tower,Central,Locally Allocated Space,Specialist Room,Meeting Room,Yes,0201_07_7.14,rooms_table
+GF.14 - Auditorium,147.0,226,Business School,Central,Locally Allocated Space,Specialist Room,General Teaching,Yes,0226_00_GF.14,rooms_table
+Concourse,200.0,226,Business School,Central,Locally Allocated Space,Specialist Room,Concourse,Yes,0226_00_GF.Z16,rooms_table
+MBA Suite,50.0,226,Business School,Central,Locally Allocated Space,Specialist Room,General Teaching,Yes,0226_01_1.02,rooms_table
+1.07 - Lecture Theatre 5,48.0,226,Business School,Central,Locally Allocated Space,Specialist Room,General Teaching,Yes,0226_01_1.07,rooms_table
+1.12 - Computer Teaching Lab,44.0,226,Business School,Central,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0226_01_1.12,rooms_table
+8.13,15.0,228,40 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0228_08_8.13,rooms_table
+Conference Room and Roof Terrace,54.0,226,Business School,Central,Locally Allocated Space,Specialist Room,Concourse,Yes,0226_04_4.04,rooms_table
+LG.10 - Lecture Theatre 4,72.0,226,Business School,Central,Locally Allocated Space,Specialist Room,General Teaching,Yes,0226_-1_LG.10,rooms_table
+LG.11 - Lecture Theatre 3,66.0,226,Business School,Central,Locally Allocated Space,Specialist Room,General Teaching,Yes,0226_-1_LG.11,rooms_table
+LG.14 - Lecture Theatre 1A,68.0,226,Business School,Central,Locally Allocated Space,Specialist Room,General Teaching,Yes,0226_-1_LG.14,rooms_table
+LG.18 - Lecture Theatre 2,66.0,226,Business School,Central,Locally Allocated Space,Specialist Room,General Teaching,Yes,0226_-1_LG.18,rooms_table
+LG.19 - Lecture Theatre 1B,70.0,226,Business School,Central,Locally Allocated Space,Specialist Room,General Teaching,Yes,0226_-1_LG.19,rooms_table
+Seminar Room 1,55.0,112,Chrystal MacMillan Building,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0112_00_G.01,rooms_table
+Seminar Room 2,55.0,112,Chrystal MacMillan Building,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0112_00_G.02,rooms_table
+Meeting Room 2,12.0,112,Chrystal MacMillan Building,Central,Centrally Allocated Space,Boardroom Style,Meeting Room,Yes,0112_02_2.11,rooms_table
+Meeting Room 4,12.0,112,Chrystal MacMillan Building,Central,Centrally Allocated Space,Boardroom Style,Meeting Room,Yes,0112_04_4.11,rooms_table
+Seminar Room 5,35.0,112,Chrystal MacMillan Building,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0112_-1_B.01,rooms_table
+Seminar Room 4,40.0,112,Chrystal MacMillan Building,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0112_-1_B.02,rooms_table
+B.03,24.0,112,Chrystal MacMillan Building,Central,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0112_-1_B.03,rooms_table
+Seminar Room 6,25.0,112,Chrystal MacMillan Building,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0112_-1_B.06,rooms_table
+1.01,12.0,283,Dugald Stewart Building,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0283_01_1.01,rooms_table
+1.17,26.0,283,Dugald Stewart Building,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0283_01_1.17,rooms_table
+1.20,46.0,283,Dugald Stewart Building,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0283_01_1.20,rooms_table
+3.10,56.0,283,Dugald Stewart Building,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0283_03_3.10,rooms_table
+The Pod,42.0,310,ECCI (Old High School),Central,Locally Allocated Space,Specialist Room,Teaching Studio,Yes,0310_00_G.02,rooms_table
+Training & Skills,90.0,310,ECCI (Old High School),Central,Locally Allocated Space,Specialist Room,Teaching Studio,Yes,0310_00_G.06,rooms_table
+The Atrium,100.0,310,ECCI (Old High School),Central,Locally Allocated Space,Specialist Room,Foyer,Yes,0310_00_G.Z02,rooms_table
+6.14,12.0,228,40 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0228_06_6.14,rooms_table
+1.40 | Hybrid teaching space,54.0,450,Edinburgh Futures Institute (EFI),Central,Locally Allocated Space,Specialist Room,Teaching Studio,Yes,0450_01_1.40,rooms_table
+8.16,15.0,228,40 George Square,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0228_08_8.16,rooms_table
+1.50 | Hybrid teaching space,54.0,450,Edinburgh Futures Institute (EFI),Central,Locally Allocated Space,Specialist Room,Teaching Studio,Yes,0450_01_1.50,rooms_table
+1.52 | Hybrid teaching space,24.0,450,Edinburgh Futures Institute (EFI),Central,Locally Allocated Space,Specialist Room,Teaching Studio,Yes,0450_01_1.52,rooms_table
+1.55 | Hybrid teaching space,48.0,450,Edinburgh Futures Institute (EFI),Central,Locally Allocated Space,Specialist Room,Teaching Studio,Yes,0450_01_1.55,rooms_table
+1.60 | Hybrid teaching space,36.0,450,Edinburgh Futures Institute (EFI),Central,Locally Allocated Space,Specialist Room,Teaching Studio,Yes,0450_01_1.60,rooms_table
+1.62 | Hybrid teaching space,12.0,450,Edinburgh Futures Institute (EFI),Central,Locally Allocated Space,Specialist Room,General Teaching,Yes,0450_01_1.62,rooms_table
+1.63 | Hybrid teaching space,8.0,450,Edinburgh Futures Institute (EFI),Central,Locally Allocated Space,Specialist Room,General Teaching,Yes,0450_01_1.63,rooms_table
+2.20/2.22/2.23 | Hybrid teaching space,54.0,450,Edinburgh Futures Institute (EFI),Central,Locally Allocated Space,Specialist Room,Teaching Studio,Yes,0450_02_2.20,rooms_table
+11.10,36.0,228,40 George Square,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0228_11_11.10,rooms_table
+2.35 | Hybrid teaching space,128.0,450,Edinburgh Futures Institute (EFI),Central,Locally Allocated Space,Classroom Style,General Teaching,Yes,0450_02_2.35,rooms_table
+2.55 | Flexible event/teaching space,68.0,450,Edinburgh Futures Institute (EFI),Central,Locally Allocated Space,Specialist Room,General Teaching,Yes,0450_02_2.55,rooms_table
+2.63 | Hybrid teaching space,8.0,450,Edinburgh Futures Institute (EFI),Central,Locally Allocated Space,Specialist Room,General Teaching,Yes,0450_02_2.63,rooms_table
+3.32 | Hybrid teaching space,12.0,450,Edinburgh Futures Institute (EFI),Central,Locally Allocated Space,Specialist Room,General Teaching,Yes,0450_03_3.32,rooms_table
+3.35 | Hybrid teaching space,36.0,450,Edinburgh Futures Institute (EFI),Central,Locally Allocated Space,Specialist Room,Teaching Studio,Yes,0450_03_3.35,rooms_table
+3.42 | Hybrid teaching space,8.0,450,Edinburgh Futures Institute (EFI),Central,Locally Allocated Space,Specialist Room,General Teaching,Yes,0450_03_3.42,rooms_table
+3.43 | Hybrid teaching space,12.0,450,Edinburgh Futures Institute (EFI),Central,Locally Allocated Space,Specialist Room,General Teaching,Yes,0450_03_3.43,rooms_table
+3.52 | Hybrid teaching space,24.0,450,Edinburgh Futures Institute (EFI),Central,Locally Allocated Space,Specialist Room,Teaching Studio,Yes,0450_03_3.52,rooms_table
+3.62 | Hybrid teaching space,12.0,450,Edinburgh Futures Institute (EFI),Central,Locally Allocated Space,Specialist Room,General Teaching,Yes,0450_03_3.62,rooms_table
+3.63 | Hybrid teaching space,8.0,450,Edinburgh Futures Institute (EFI),Central,Locally Allocated Space,Specialist Room,General Teaching,Yes,0450_03_3.63,rooms_table
+4.35 | Hybrid teaching space,30.0,450,Edinburgh Futures Institute (EFI),Central,Locally Allocated Space,Specialist Room,Teaching Studio,Yes,0450_04_4.35,rooms_table
+1.B04,20.0,103,Forresthill,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0103_01_1.B04,rooms_table
+1.B09,16.0,103,Forresthill,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0103_01_1.B09,rooms_table
+1.B10,20.0,103,Forresthill,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0103_01_1.B10,rooms_table
+1.B15,16.0,103,Forresthill,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0103_01_1.B15,rooms_table
+1.B19,20.0,103,Forresthill,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0103_01_1.B19,rooms_table
+3.D02,40.0,103,Forresthill,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0103_03_3.D02,rooms_table
+1.26,40.0,311,Geography (Old Infirmary),Central,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0311_01_1.26,rooms_table
+2.01,22.0,311,Geography (Old Infirmary),Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0311_02_2.01,rooms_table
+2.02,60.0,311,Geography (Old Infirmary),Central,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0311_02_2.02,rooms_table
+2.05 Ogilvie,31.0,311,Geography (Old Infirmary),Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0311_02_2.05,rooms_table
+2.13,80.0,311,Geography (Old Infirmary),Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0311_02_2.13,rooms_table
+4.08 Geddes,14.0,311,Geography (Old Infirmary),Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0311_04_4.08,rooms_table
+4.09 Darwin,16.0,311,Geography (Old Infirmary),Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0311_04_4.09,rooms_table
+Gordon Aikman Lecture Theatre,458.0,225,Gordon Aikman Lecture Theatre,Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0225_02_2.201,rooms_table
+G.01 - Classroom 1,36.0,300,High School Yards Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0300_00_NG.01,rooms_table
+G.02 - Classroom 2,36.0,300,High School Yards Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0300_00_NG.02,rooms_table
+G.03 - Classroom 3,16.0,300,High School Yards Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0300_00_NG.03,rooms_table
+G.04 - Classroom 4,16.0,300,High School Yards Teaching Centre,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0300_00_NG.04,rooms_table
+G.01 - Davidson Lecture Theatre,120.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0335_00_G.01,rooms_table
+G.09,32.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0335_00_G.09,rooms_table
+G.10,32.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0335_00_G.10,rooms_table
+G.12,17.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0335_00_G.12,rooms_table
+G.13,48.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0335_00_G.13,rooms_table
+G.17,14.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0335_00_G.17,rooms_table
+1.1,25.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0335_01_1.1,rooms_table
+1.16 - Teaching Studio,42.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Teaching Studio,Teaching Studio,Yes,0335_01_1.16,rooms_table
+1.2,44.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0335_01_1.2,rooms_table
+1.3,30.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0335_01_1.3,rooms_table
+1.4,16.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0335_01_1.4,rooms_table
+1.9,32.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0335_01_1.9,rooms_table
+2.1,25.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0335_02_2.1,rooms_table
+2.14 - Teaching Studio,36.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Teaching Studio,Teaching Studio,Yes,0335_02_2.14,rooms_table
+2.18,16.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0335_02_2.18,rooms_table
+2.2,44.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0335_02_2.2,rooms_table
+2.3,40.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0335_02_2.3,rooms_table
+2.4,16.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0335_02_2.4,rooms_table
+3.1,25.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0335_03_3.1,rooms_table
+3.2,40.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0335_03_3.2,rooms_table
+3.3,40.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0335_03_3.3,rooms_table
+3.4,16.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0335_03_3.4,rooms_table
+4.1,30.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0335_04_4.1,rooms_table
+4.2,32.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0335_04_4.2,rooms_table
+4.3,60.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0335_04_4.3,rooms_table
+5.1,25.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0335_05_5.1,rooms_table
+5.2,32.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0335_05_5.2,rooms_table
+5.3,50.0,335,Lister Learning and Teaching Centre,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0335_05_5.3,rooms_table
+G.03 - Doorway 6,50.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0113_00_G.03,rooms_table
+G.07 Meadows Lecture Theatre - Doorway 4,170.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0113_00_G.07,rooms_table
+G.09 Seminar Room - Doorway 4,15.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0113_00_G.09,rooms_table
+G.10 Seminar Room - Doorway 4,15.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0113_00_G.10,rooms_table
+G.11 Seminar Room - Doorway 4,15.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0113_00_G.11,rooms_table
+G.12 Seminar Room - Doorway 4,15.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0113_00_G.12,rooms_table
+G.13 Seminar Room - Doorway 4,26.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0113_00_G.13,rooms_table
+G.14 Seminar Room - Doorway 4,26.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0113_00_G.14,rooms_table
+G.15 Seminar Room - Doorway 4,29.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0113_00_G.15,rooms_table
+Teviot Lecture Theatre - Doorway 5,200.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0113_00_G.152,rooms_table
+G.16 Seminar Room - Doorway 4,45.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0113_00_G.16,rooms_table
+Teaching Room 06 (G.199) - Doorway 3,8.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0113_00_G.199,rooms_table
+Teaching Room 05 (G.200) - Doorway 3,16.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0113_00_G.200,rooms_table
+Teaching Room 04 (G.202B) - Doorway 3,12.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0113_00_G.202B,rooms_table
+Teaching Room 02 (G.203) - Doorway 3,20.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0113_00_G.203,rooms_table
+Teaching Room 01 (G.204) - Doorway 3,20.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0113_00_G.204,rooms_table
+Teaching Room 03 (G.205) - Doorway 3,14.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0113_00_G.205,rooms_table
+00M.05 Archaeology Teaching Lab - Doorway 4,35.0,113,"Medical School, Teviot",Central,Locally Allocated Space,Specialist Room,Laboratory,Yes,0113_00M_00M.05,rooms_table
+1.26 Meeting/ Tutorial Room - Doorway 4,10.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0113_01_1.26,rooms_table
+Teaching Room 09 (1.416) - Doorway 3,40.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0113_01_1.416,rooms_table
+Teaching Room 08 (1.420) - Doorway 3,20.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0113_01_1.42,rooms_table
+Room 425 Anatomy Lecture Theatre - Doorway 3,260.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0113_01_1.425,rooms_table
+Teaching Room 07 (1.434) - Doorway 3,28.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0113_01_1.434,rooms_table
+1.9 - Doorway 6,40.0,113,"Medical School, Teviot",Central,Locally Allocated Space,Specialist Room,Video Conference,Yes,0113_01_1.9,rooms_table
+01M.19 Meeting Room - Doorway 4,14.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0113_01M_01M.19,rooms_table
+01M.20 Meeting/ Tutorial Room - Doorway 4,12.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0113_01M_01M.20,rooms_table
+01M.27 Meeting / Tutorial Room - Doorway 4,12.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0113_01M_01M.27,rooms_table
+Room 452 East/West Lab - Doorway 3,114.0,113,"Medical School, Teviot",Central,Locally Allocated Space,Specialist Room,Laboratory,Yes,0113_01M_01M.452,rooms_table
+Room 467 Small Anatomy Teaching Lab - Doorway 3,25.0,113,"Medical School, Teviot",Central,Locally Allocated Space,Specialist Room,Licenced Teaching,Yes,0113_01M_01M.467,rooms_table
+Teaching Room 12 (01M.469) - Doorway 3,40.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0113_01M_01M.469,rooms_table
+Teaching Room 13 (01M.473) - Doorway 3,48.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0113_01M_01M.473,rooms_table
+Teaching Room 14 (01M.474) - Doorway 3,10.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0113_01M_01M.474,rooms_table
+2.26 Meeting/ Tutorial Room - Doorway 4,12.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0113_02_2.26,rooms_table
+2.27 Meeting/ Tutorial Room - Doorway 4,12.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0113_02_2.27,rooms_table
+2.36 Teaching Computer Lab - Doorway 4,24.0,113,"Medical School, Teviot",Central,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0113_02_2.36,rooms_table
+Room 265 Anatomy Teaching Lab - Doorway 3,70.0,113,"Medical School, Teviot",Central,Locally Allocated Space,Specialist Room,Laboratory,Yes,0113_02_2.65,rooms_table
+02M.24 Meeting/ Tutorial Room - Doorway 4,10.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0113_02M_02M.24,rooms_table
+3.3 - Doorway 6,10.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0113_03_3.3,rooms_table
+SR4,24.0,8,Minto House,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0008_00_G.251,rooms_table
+SR5,16.0,8,Minto House,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0008_00_G.252,rooms_table
+G.267 (Matthew Gallery),30.0,8,Minto House,Central,Locally Allocated Space,Specialist Room,ECA Specialist Space,Yes,0008_00_G.267,rooms_table
+1.302 (Crit Room 2),25.0,8,Minto House,Central,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0008_01_1.302,rooms_table
+1.306 (Studio 2),93.0,8,Minto House,Central,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0008_01_1.306,rooms_table
+2.355 (Studio 3),59.0,8,Minto House,Central,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0008_02_2.355,rooms_table
+2.365 (Geddes Seminar Room),16.0,8,Minto House,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0008_02_2.365,rooms_table
+2.403 (Elliot Seminar Room),45.0,8,Minto House,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0008_02_2.403,rooms_table
+2.418 (AHT Base),18.0,8,Minto House,Central,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0008_02_2.418,rooms_table
+3.451 (Studio 5),41.0,8,Minto House,Central,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0008_03_3.451,rooms_table
+3.454 (Studio 4),60.0,8,Minto House,Central,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0008_03_3.454,rooms_table
+SR1,14.0,8,Minto House,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0008_-1_B.152,rooms_table
+SR2,15.0,8,Minto House,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0008_-1_B.153,rooms_table
+SR3,15.0,8,Minto House,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0008_-1_B.154,rooms_table
+B.157 (Volume 1),28.0,8,Minto House,Central,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0008_-1_B.157,rooms_table
+B.162 (Volume 2),29.0,8,Minto House,Central,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0008_-1_B.162,rooms_table
+G.158 - Quad Teaching Room,30.0,1,Old College,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0001_00_G.158,rooms_table
+G.159 - MacLaren Stuart Room,108.0,1,Old College,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0001_00_G.159,rooms_table
+Usha Kasera Lecture Theatre,150.0,1,Old College,Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0001_01_1.264,rooms_table
+Teaching Room 01,22.0,1,Old College,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0001_01_1.265,rooms_table
+Teaching Room 02,24.0,1,Old College,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0001_01_1.266,rooms_table
+Teaching Room 03,26.0,1,Old College,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0001_01_1.267,rooms_table
+Teaching Room 04,16.0,1,Old College,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0001_01_1.270,rooms_table
+Teaching Room 05,22.0,1,Old College,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0001_01_1.273,rooms_table
+Teaching Room 06,22.0,1,Old College,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0001_01_1.274,rooms_table
+Teaching Room 07,30.0,1,Old College,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0001_01_1.275,rooms_table
+Moot Court Room - Law only,22.0,1,Old College,Central,Locally Allocated Space,Specialist Room,Moot Court,Yes,0001_01_1.276,rooms_table
+Teaching Room 12,16.0,1,Old College,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0001_02_2.343,rooms_table
+Teaching Room 11,16.0,1,Old College,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0001_02_2.345,rooms_table
+Teaching Room 10,16.0,1,Old College,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0001_02_2.347,rooms_table
+Teaching Room 09,16.0,1,Old College,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0001_02_2.349,rooms_table
+Teaching Room 08,16.0,1,Old College,Central,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0001_02_2.351,rooms_table
+G10 - Drummond Library (access via Drummond Library entrance),36.0,313,Old Surgeons Hall,Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0313_00_G.10,rooms_table
+Reid Concert Hall Auditorium,218.0,115,Reid School,Central,Centrally Allocated Space,Specialist Room,Theatre/Concert Hall,Yes,0115_00_G.22,rooms_table
+Lecture Theatre G.04,139.0,210,Robson Building,Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0210_00_G.04,rooms_table
+Greenfield Main Lab (GFS1),42.0,210,Robson Building,Central,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0210_00_GFS1,rooms_table
+Greenfield Small Lab (GFS2),20.0,210,Robson Building,Central,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0210_00_GFS2,rooms_table
+Greenfield Side Room 2 (GFS-SR2),6.0,210,Robson Building,Central,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0210_00_GFSSR2,rooms_table
+Greenfield Side Room 3 (GFS-SR3),6.0,210,Robson Building,Central,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0210_00-GFSSR3,rooms_table
+Greenfield Side Room 4 (GFS-SR4),10.0,210,Robson Building,Central,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0210_00-GFSSR4,rooms_table
+Greenfield Side Room 5 (GFS-SR5),10.0,210,Robson Building,Central,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0210_00-GFSSR5,rooms_table
+Computer Lab B.51 - 65 cap,65.0,210,Robson Building,Central,Locally Allocated Space,IT Infrastructure Computer Lab,Computer Laboratory,Yes,0210_-1_B.51,rooms_table
+Computer Lab B.51 - 129 cap,129.0,210,Robson Building,Central,Locally Allocated Space,IT Infrastructure Computer Lab,Computer Laboratory,Yes,0210_-1_B.51-2,rooms_table
+Large Animal Clinical Skills Lab,42.0,704,Block F,Easter Bush,Locally Allocated Space,Specialist Room,Laboratory,Yes,0704_00_G.04,rooms_table
+F-Block Tutorial Room 3,22.0,704,Block F,Easter Bush,Locally Allocated Space,Specialist Room,General Teaching,Yes,0704_00_G.13.14,rooms_table
+F-Block Wetlab,42.0,704,Block F,Easter Bush,Locally Allocated Space,Specialist Room,Laboratory,Yes,0704_00_G.22,rooms_table
+Exotics Unit,20.0,704,Block F,Easter Bush,Locally Allocated Space,Specialist Room,Laboratory,Yes,0704_00_G.25,rooms_table
+Equine Stables,40.0,732,Equine Hospital,Easter Bush,Locally Allocated Space,Specialist Room,Training Room,Yes,0732_00_XX,rooms_table
+Langhill G.12,30.0,748,Langhill Farm Office,Easter Bush,Locally Allocated Space,Specialist Room,Laboratory,Yes,0748_00_G.12,rooms_table
+FAH R26,42.0,727,Large Animal Hospital,Easter Bush,Locally Allocated Space,Specialist Room,General Teaching,Yes,0727_00_GB.26,rooms_table
+Roslin G-022 (Auditorium),250.0,781,Roslin Institute,Easter Bush,Locally Allocated Space,Specialist Room,General Teaching,Yes,0781_00_G.022,rooms_table
+Roslin B-006 (Basement seminar room),42.0,781,Roslin Institute,Easter Bush,Locally Allocated Space,Specialist Room,General Teaching,Yes,0781_-1_B.006,rooms_table
+G.01 - Seminar Room,98.0,728,Vet School,Easter Bush,Locally Allocated Space,Specialist Room,General Teaching,Yes,0728_00_G.01,rooms_table
+G.02 - Tutorial Room 1,24.0,728,Vet School,Easter Bush,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0728_00_G.02,rooms_table
+G.02A - Tutorial Room 1A,24.0,728,Vet School,Easter Bush,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0728_00_G.02A,rooms_table
+G.03 - Tutorial Room 2,30.0,728,Vet School,Easter Bush,Locally Allocated Space,Specialist Room,Teaching Studio,Yes,0728_00_G.03,rooms_table
+G.03A - Tutorial Room 2A,30.0,728,Vet School,Easter Bush,Locally Allocated Space,Specialist Room,Teaching Studio,Yes,0728_00_G.03A,rooms_table
+G.11 - Teaching Lab 1,60.0,728,Vet School,Easter Bush,Locally Allocated Space,Specialist Room,Laboratory,Yes,0728_00_G.11,rooms_table
+G.12 - Teaching Lab 2,96.0,728,Vet School,Easter Bush,Locally Allocated Space,Specialist Room,Laboratory,Yes,0728_00_G.12,rooms_table
+G.36 - Post-mortem Room,100.0,728,Vet School,Easter Bush,Locally Allocated Space,Specialist Room,Laboratory,Yes,0728_00_G.36,rooms_table
+G.45 - Dissection Room,60.0,728,Vet School,Easter Bush,Locally Allocated Space,Specialist Room,Laboratory,Yes,0728_00_G.45,rooms_table
+G.58 - Lecture Theatre 1,202.0,728,Vet School,Easter Bush,Locally Allocated Space,Specialist Room,General Teaching,Yes,0728_00_G.58,rooms_table
+G.66 - Lecture Theatre 2,202.0,728,Vet School,Easter Bush,Locally Allocated Space,Specialist Room,General Teaching,Yes,0728_00_G.66,rooms_table
+1.21 - Clinical Skills Laboratory,60.0,728,Vet School,Easter Bush,Locally Allocated Space,Specialist Room,Laboratory,Yes,0728_01_1.21,rooms_table
+1.24 - Tutorial Room,20.0,728,Vet School,Easter Bush,Locally Allocated Space,Specialist Room,General Teaching,Yes,0728_01_1.24,rooms_table
+1.25 - Tutorial Room,20.0,728,Vet School,Easter Bush,Locally Allocated Space,Specialist Room,General Teaching,Yes,0728_01_1.25,rooms_table
+1.26 - Sim Debrief and Tutorial Room,20.0,728,Vet School,Easter Bush,Locally Allocated Space,Specialist Room,General Teaching,Yes,0728_01_1.26,rooms_table
+1.27 - Tutorial Room,20.0,728,Vet School,Easter Bush,Locally Allocated Space,Specialist Room,General Teaching,Yes,0728_01_1.27,rooms_table
+1.28 - Tutorial Room,32.0,728,Vet School,Easter Bush,Locally Allocated Space,Specialist Room,General Teaching,Yes,0728_01_1.28,rooms_table
+"1.42 - Tutorial Room *within library, quiet please*",10.0,728,Vet School,Easter Bush,Locally Allocated Space,Specialist Room,General Teaching,Yes,0728_01_1.42,rooms_table
+"1.43 - Tutorial Room *within library, quiet please*",10.0,728,Vet School,Easter Bush,Locally Allocated Space,Specialist Room,General Teaching,Yes,0728_01_1.43,rooms_table
+"1.45 - Tutorial Room *within library, quiet please*",10.0,728,Vet School,Easter Bush,Locally Allocated Space,Specialist Room,General Teaching,Yes,0728_01_1.45,rooms_table
+"1.46 - Tutorial Room *within library, quiet please*",10.0,728,Vet School,Easter Bush,Locally Allocated Space,Specialist Room,General Teaching,Yes,0728_01_1.46,rooms_table
+G.03 - Art Studio,25.0,558,Charteris Land,Holyrood,Locally Allocated Space,Specialist Room,Art Studio,Yes,0558_00_G.03,rooms_table
+G.06 - Art Studio,25.0,558,Charteris Land,Holyrood,Locally Allocated Space,Specialist Room,Art Studio,Yes,0558_00_G.06,rooms_table
+G.14 - Computer Lab,15.0,558,Charteris Land,Holyrood,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0558_00_G.14,rooms_table
+1.02,30.0,558,Charteris Land,Holyrood,Locally Allocated Space,Specialist Room,Laboratory,Yes,0558_01_1.02,rooms_table
+1.03,30.0,558,Charteris Land,Holyrood,Locally Allocated Space,Specialist Room,Laboratory,Yes,0558_01_1.03,rooms_table
+1.04,30.0,558,Charteris Land,Holyrood,Locally Allocated Space,Specialist Room,Laboratory,Yes,0558_01_1.04,rooms_table
+1.06 - Physics Lab,25.0,558,Charteris Land,Holyrood,Locally Allocated Space,Specialist Room,Laboratory,Yes,0558_01_1.06,rooms_table
+1.19 - Biology/Chemistry Lab,25.0,558,Charteris Land,Holyrood,Locally Allocated Space,Specialist Room,Laboratory,Yes,0558_01_1.19,rooms_table
+2.02,16.0,558,Charteris Land,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0558_02_2.2,rooms_table
+2.03,52.0,558,Charteris Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0558_02_2.3,rooms_table
+3.13,24.0,558,Charteris Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0558_03_3.13,rooms_table
+3.04,33.0,558,Charteris Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0558_03_3.4,rooms_table
+3.02,24.0,558,Charteris Land,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0558_03_3.02,rooms_table
+4.02,24.0,558,Charteris Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0558_04_4.02,rooms_table
+4.18,32.0,558,Charteris Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0558_04_4.18,rooms_table
+4.20,38.0,558,Charteris Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0558_04_4.20,rooms_table
+4.04,32.0,558,Charteris Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0558_04_4.4,rooms_table
+5.11,35.0,558,Charteris Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0558_05_5.11,rooms_table
+5.15,25.0,558,Charteris Land,Holyrood,Locally Allocated Space,Specialist Room,Maths Studio,Yes,0558_05_5.15,rooms_table
+5.02,48.0,558,Charteris Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0558_05_5.2,rooms_table
+5.03,25.0,558,Charteris Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0558_05_5.3,rooms_table
+5.04,25.0,558,Charteris Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0558_05_5.4,rooms_table
+B.1 - Music Studio,20.0,558,Charteris Land,Holyrood,Locally Allocated Space,Specialist Room,Music Studio,Yes,0558_-1_B.1,rooms_table
+B.11,16.0,558,Charteris Land,Holyrood,Locally Allocated Space,Specialist Room,Laboratory,Yes,0558_-1_B.11,rooms_table
+B.4 - Music Studio,20.0,558,Charteris Land,Holyrood,Locally Allocated Space,Specialist Room,Music Studio,Yes,0558_-1_B.4,rooms_table
+B.9,16.0,558,Charteris Land,Holyrood,Locally Allocated Space,Specialist Room,Laboratory,Yes,0558_-1_B.9,rooms_table
+B1.01,16.0,591,Outreach Centre,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0591_-1_B1.01,rooms_table
+B1.02,16.0,591,Outreach Centre,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0591_-1_B1.02,rooms_table
+B1.03,16.0,591,Outreach Centre,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0591_-1_B1.03,rooms_table
+B1.04,14.0,591,Outreach Centre,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0591_-1_B1.04,rooms_table
+B1.05,16.0,591,Outreach Centre,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0591_-1_B1.05,rooms_table
+B1.06,16.0,591,Outreach Centre,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0591_-1_B1.06,rooms_table
+B1.07,16.0,591,Outreach Centre,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0591_-1_B1.07,rooms_table
+B1.08,16.0,591,Outreach Centre,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0591_-1_B1.08,rooms_table
+B1.09,16.0,591,Outreach Centre,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0591_-1_B1.09,rooms_table
+B1.10,14.0,591,Outreach Centre,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0591_-1_B1.10,rooms_table
+Bessie Watson Lecture Room,150.0,591,Outreach Centre,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0591_-1_B1.11,rooms_table
+G1,240.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0551_00_G1,rooms_table
+G21,60.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0551_00_G21,rooms_table
+G28 - COL,12.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0551_00_G28,rooms_table
+G30 - COL,10.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0551_00_G30,rooms_table
+G32 - COL,12.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0551_00_G32,rooms_table
+G33 - COL,10.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0551_00_G33,rooms_table
+G34 - COL,18.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0551_00_G34,rooms_table
+G35 - COL,16.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Group Cluster Style,General Teaching,Yes,0551_00_G35,rooms_table
+G36B - COL,14.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0551_00_G36B,rooms_table
+G36A - COL,12.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0551_00_G36A,rooms_table
+G37,25.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0551_00_G37,rooms_table
+G38 - COL,18.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0551_00_G38,rooms_table
+G42,55.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0551_00_G42,rooms_table
+G43,59.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0551_00_G43,rooms_table
+G44 - COL,12.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0551_00_G44,rooms_table
+1.18,60.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0551_01_1.18,rooms_table
+1.19,40.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0551_01_1.19,rooms_table
+1.21,40.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0551_01_1.21,rooms_table
+1.26,60.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0551_01_1.26,rooms_table
+1.27,25.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0551_01_1.27,rooms_table
+1.37,35.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0551_01_1.37,rooms_table
+LG23 - COL,10.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0551_-1_LG23,rooms_table
+LG34,120.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0551_-1_LG34,rooms_table
+LG44 - COL,14.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0551_-1_LG44,rooms_table
+LG45 - COL,14.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0551_-1_LG45,rooms_table
+LG46 - COL,16.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0551_-1_LG46,rooms_table
+LG47 - COL,16.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0551_-1_LG47,rooms_table
+LG48 - COL,20.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0551_-1_LG48,rooms_table
+LG49 - COL,18.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0551_-1_LG49,rooms_table
+M1 - COL,16.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0551_-1M_M1,rooms_table
+M14 - COL,16.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0551_-1M_M14,rooms_table
+M16 - COL,14.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0551_-1M_M16,rooms_table
+M18 - COL,6.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0551_-1M_M18,rooms_table
+M2 - COL,20.0,551,Patersons Land,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0551_-1M_M2,rooms_table
+4.22,25.0,553,St Johns Land,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0553_04_422,rooms_table
+G.4,40.0,564,St Leonards Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0564_00_G4,rooms_table
+2.14,40.0,564,St Leonards Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0564_02_2.14,rooms_table
+Gym 2,40.0,564,St Leonards Land,Holyrood,Locally Allocated Space,Specialist Room,Gym,Yes,0564_02_2.4,rooms_table
+3.15,24.0,564,St Leonards Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0564_03_3.15,rooms_table
+3.16,24.0,564,St Leonards Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0564_03_3.16,rooms_table
+3.23,25.0,564,St Leonards Land,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0564_03_3.23,rooms_table
+3.24,40.0,564,St Leonards Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0564_03_3.24,rooms_table
+3.25,20.0,564,St Leonards Land,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0564_03_3.25,rooms_table
+Main Games Hall,200.0,564,St Leonards Land,Holyrood,Locally Allocated Space,Specialist Room,Gym,Yes,0564_03_3.8,rooms_table
+Gym 3,40.0,564,St Leonards Land,Holyrood,Locally Allocated Space,Specialist Room,Gym,Yes,0564_04_4.5,rooms_table
+Green Space Quad,40.0,555,Thomsons Land,Holyrood,Locally Allocated Space,Specialist Room,Outdoor Space,Yes,0555_00_??,rooms_table
+G6 - Computer Lab,30.0,555,Thomsons Land,Holyrood,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0555_00_G.06,rooms_table
+Drama,40.0,555,Thomsons Land,Holyrood,Locally Allocated Space,Specialist Room,Drama Room,Yes,0555_00_G.02,rooms_table
+Godfrey Thomson Hall,100.0,555,Thomsons Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0555_00_G.1,rooms_table
+G10,8.0,555,Thomsons Land,Holyrood,Locally Allocated Space,Specialist Room,Art Studio,Yes,0555_00_G.10,rooms_table
+G9,12.0,555,Thomsons Land,Holyrood,Locally Allocated Space,Specialist Room,Art Studio,Yes,0555_00_G.9,rooms_table
+1.14 - COL,16.0,555,Thomsons Land,Holyrood,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0555_01_1.14,rooms_table
+1.15,31.0,555,Thomsons Land,Holyrood,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0555_01_1.15,rooms_table
+2.01,25.0,555,Thomsons Land,Holyrood,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0555_02_2.1,rooms_table
+Classroom 10,86.0,616,Alrick,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0616_00_00.01-E,rooms_table
+TLC,80.0,616,Alrick,Kings Buildings,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0616_01_01.03-E,rooms_table
+Classroom 12,72.0,616,Alrick,Kings Buildings,Locally Allocated Space,Specialist Room,General Teaching,Yes,0616_02_02.02-E,rooms_table
+Lecture Theatre 1,313.0,640,Ashworth Labs,Kings Buildings,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0640_00_G.0070,rooms_table
+80,116.0,640,Ashworth Labs,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0640_00_G.0080,rooms_table
+Lecture Theatre 3,88.0,640,Ashworth Labs,Kings Buildings,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0640_01_1.0107,rooms_table
+Honours Room 2,33.0,640,Ashworth Labs,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0640_01_1.0114,rooms_table
+Honours Room 1,35.0,640,Ashworth Labs,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0640_01_1.0115,rooms_table
+150 - Swipe Access Required,12.0,640,Ashworth Labs,Kings Buildings,Locally Allocated Space,Specialist Room,Meeting Room,Yes,0640_01_1.0150,rooms_table
+1.03 - Swipe Access Required,30.0,640,Ashworth Labs,Kings Buildings,Locally Allocated Space,Specialist Room,Meeting Room,Yes,0640_01_1.03,rooms_table
+250 - Swipe Access Required,12.0,640,Ashworth Labs,Kings Buildings,Locally Allocated Space,Specialist Room,Meeting Room,Yes,0640_02_2.0250,rooms_table
+350 - Swipe Access Required,12.0,640,Ashworth Labs,Kings Buildings,Locally Allocated Space,Specialist Room,Meeting Room,Yes,0640_03_3.0350,rooms_table
+301,24.0,621,Crew,Kings Buildings,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0621_01_1.301,rooms_table
+G.27 Lecture Theatre 1,164.0,608,Daniel Rutherford Building,Kings Buildings,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0608_00_G.27,rooms_table
+B.06,40.0,608,Daniel Rutherford Building,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0608_-1_B.6,rooms_table
+B.07,72.0,608,Daniel Rutherford Building,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0608_-1_B.7,rooms_table
+Lecture Theatre No. 1,200.0,601,Eng Sanderson Building,Kings Buildings,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0601_00_G.14,rooms_table
+G.20 Mechanical Engineering Laboratory,30.0,601,Eng Sanderson Building,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0601_00_G.20,rooms_table
+G.21 Mechanical Engineering Laboratory,21.0,601,Eng Sanderson Building,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0601_00_G.21,rooms_table
+Classroom 2,75.0,601,Eng Sanderson Building,Kings Buildings,Locally Allocated Space,Specialist Room,General Teaching,Yes,0601_00_G.41,rooms_table
+Classroom 3,24.0,601,Eng Sanderson Building,Kings Buildings,Locally Allocated Space,Specialist Room,General Teaching,Yes,0601_00_G.45,rooms_table
+Chemical Engineering Laboratory - 30cap,30.0,601,Eng Sanderson Building,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0601_00M_G.11(M),rooms_table
+Chemical Engineering Laboratory - First Year Laboratory,20.0,601,Eng Sanderson Building,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0601_00M_G.15(M),rooms_table
+TLG,48.0,615,Fleeming Jenkin,Kings Buildings,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0615_00_G.164,rooms_table
+Light Structures Teaching Lab,12.0,615,Fleeming Jenkin,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0615_00_G.165,rooms_table
+Electrical Machines and Power Systems,20.0,615,Fleeming Jenkin,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0615_00_G.168,rooms_table
+TLF,65.0,615,Fleeming Jenkin,Kings Buildings,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0615_01_1.196B,rooms_table
+TLA - Kivlin Suite,40.0,615,Fleeming Jenkin,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0615_01_1.197,rooms_table
+TLB - Kivlin Suite,40.0,615,Fleeming Jenkin,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0615_01_1.198,rooms_table
+TLD - Kivlin Suite,40.0,615,Fleeming Jenkin,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0615_01_1.2,rooms_table
+Lecture Theatre 201,135.0,633,Geology/Geophysics (Grant Institute),Kings Buildings,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0633_01_1.201,rooms_table
+Room 304B,40.0,633,Geology/Geophysics (Grant Institute),Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0633_03_3.304B,rooms_table
+Classroom 4,54.0,602,Hudson Beare Building,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0602_00_G.10,rooms_table
+Lecture Theatre 2,195.0,602,Hudson Beare Building,Kings Buildings,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0602_00_G.2,rooms_table
+1104,104.0,613,JCMB,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0613_01_1.1104,rooms_table
+1206c - Teaching Studio,72.0,613,JCMB,Kings Buildings,Centrally Allocated Space,Teaching Studio,Teaching Studio,Yes,0613_01_1.1206C,rooms_table
+1208,66.0,613,JCMB,Kings Buildings,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0613_01_1.1208,rooms_table
+1501,62.0,613,JCMB,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0613_01_1.1501,rooms_table
+1512,30.0,613,JCMB,Kings Buildings,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0613_01_1.1512,rooms_table
+2205,12.0,613,JCMB,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0613_02_2.2205,rooms_table
+2206,7.0,613,JCMB,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0613_02_2.2206,rooms_table
+2209,60.0,613,JCMB,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0613_02_2.2209,rooms_table
+2901,14.0,613,JCMB,Kings Buildings,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0613_02_2.2901,rooms_table
+Lecture Theatre A,197.0,613,JCMB,Kings Buildings,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0613_02_2.3902,rooms_table
+Lecture Theatre B,150.0,613,JCMB,Kings Buildings,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0613_02_2.3905,rooms_table
+Lecture Theatre C,104.0,613,JCMB,Kings Buildings,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0613_02_2.3908,rooms_table
+3201,18.0,613,JCMB,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0613_03_3.3201,rooms_table
+3206,21.0,613,JCMB,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0613_03_3.3206,rooms_table
+3208,32.0,613,JCMB,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0613_03_3.3208,rooms_table
+3211 - Teaching Studio,24.0,613,JCMB,Kings Buildings,Centrally Allocated Space,Teaching Studio,Teaching Studio,Yes,0613_03_3.3211,rooms_table
+3212 - Teaching Studio,24.0,613,JCMB,Kings Buildings,Centrally Allocated Space,Teaching Studio,Teaching Studio,Yes,0613_03_3.3212,rooms_table
+3217 - Teaching Studio,84.0,613,JCMB,Kings Buildings,Centrally Allocated Space,Teaching Studio,Teaching Studio,Yes,0613_03_3.3217,rooms_table
+3301,54.0,613,JCMB,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0613_03_3.3301,rooms_table
+4203,15.0,613,JCMB,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0613_04_4.4203,rooms_table
+4205,15.0,613,JCMB,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0613_04_4.4205,rooms_table
+4207,15.0,613,JCMB,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0613_04_4.4207,rooms_table
+4208,15.0,613,JCMB,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0613_04_4.4208,rooms_table
+4325B,39.0,613,JCMB,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0613_04_4.4325B,rooms_table
+4325C - Teaching Studio,48.0,613,JCMB,Kings Buildings,Centrally Allocated Space,Teaching Studio,Teaching Studio,Yes,0613_04_4.4325C,rooms_table
+4325D - Computer Lab,66.0,613,JCMB,Kings Buildings,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0613_04_4.4325D,rooms_table
+5205,54.0,613,JCMB,Kings Buildings,Locally Allocated Space,Specialist Room,Teaching Studio,Yes,0613_05_5.5205,rooms_table
+5326,42.0,613,JCMB,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0613_05_5.5326,rooms_table
+5327,50.0,613,JCMB,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0613_05_5.5327,rooms_table
+5328,50.0,613,JCMB,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0613_05_5.5328,rooms_table
+6201,38.0,613,JCMB,Kings Buildings,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0613_06_6.6201,rooms_table
+6206,52.0,613,JCMB,Kings Buildings,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0613_06_6.6206,rooms_table
+6231,90.0,613,JCMB,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0613_06_6.6231,rooms_table
+6301,60.0,613,JCMB,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0613_06_6.6301,rooms_table
+6307,45.0,613,JCMB,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0613_06_6.6307,rooms_table
+Meteorology Teaching Laboratory,50.0,613,JCMB,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0613_08_8.8216,rooms_table
+Theatre 100,94.0,632,Joseph Black Building,Kings Buildings,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0632_00_G.009,rooms_table
+Theatre 250,230.0,632,Joseph Black Building,Kings Buildings,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0632_00_G.024,rooms_table
+Lecture Room 40,36.0,632,Joseph Black Building,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0632_00_G.092,rooms_table
+G.69,25.0,632,Joseph Black Building,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0632_00_G.69,rooms_table
+NG4 (James Walker Lab) - access via Christina Miller Building entrance,45.0,632,Joseph Black Building,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0632_00_G.A04,rooms_table
+NG7 (Lyon Playfair Lab) - access via Christina Miller Building entrance,90.0,632,Joseph Black Building,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0632_00_G.A07,rooms_table
+N1.04 (Charles Hope Lab) - access via Christina Miller Building entrance,50.0,632,Joseph Black Building,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0632_01_1.A04,rooms_table
+N1.10 (Edmund Hirst Lab) - access via Christina Miller Building entrance,50.0,632,Joseph Black Building,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0632_01_1.A10,rooms_table
+G.04,20.0,654,Murchison House,Kings Buildings,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0654_00_G.04,rooms_table
+G.05,24.0,654,Murchison House,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0654_00_G.05,rooms_table
+G.07 - Teaching Studio,90.0,654,Murchison House,Kings Buildings,Centrally Allocated Space,Teaching Studio,Teaching Studio,Yes,0654_00_G.07,rooms_table
+G.09 - Teaching Studio,60.0,654,Murchison House,Kings Buildings,Centrally Allocated Space,Teaching Studio,Teaching Studio,Yes,0654_00_G.09,rooms_table
+G.10,20.0,654,Murchison House,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0654_00_G.10,rooms_table
+G.12,20.0,654,Murchison House,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0654_00_G.12,rooms_table
+G.13,19.0,654,Murchison House,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0654_00_G.13,rooms_table
+G.26 Charlotte Murchison Lecture Theatre,105.0,654,Murchison House,Kings Buildings,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0654_00_G.26,rooms_table
+G.30,20.0,654,Murchison House,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0654_00_G.30,rooms_table
+G.31,46.0,654,Murchison House,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0654_00_G.31,rooms_table
+G.32,28.0,654,Murchison House,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0654_00_G.32,rooms_table
+G.33,20.0,654,Murchison House,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0654_00_G.33,rooms_table
+G.34,24.0,654,Murchison House,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0654_00_G.34,rooms_table
+1.19,68.0,654,Murchison House,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0654_01_1.19,rooms_table
+1.20 - Open Access/Teaching Computer Lab,74.0,654,Murchison House,Kings Buildings,Locally Allocated Space,IT Infrastructure Computer Lab,Computer Laboratory,Yes,0654_01_1.20,rooms_table
+LG.01 - Open Access Computer Lab,45.0,654,Murchison House,Kings Buildings,Locally Allocated Space,IT Infrastructure Computer Lab,Computer Laboratory,Yes,0654_-1_LG.01,rooms_table
+LG.12 - Open Access Computer Lab,101.0,654,Murchison House,Kings Buildings,Locally Allocated Space,IT Infrastructure Computer Lab,Computer Laboratory,Yes,0654_-1_LG.12,rooms_table
+G.02 - Elm Lecture Theatre,112.0,639,Nucleus,Kings Buildings,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0639_00_G.02,rooms_table
+1.14 - Oak Lecture Theatre,400.0,639,Nucleus,Kings Buildings,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0639_01_1.14,rooms_table
+1.15 - Larch Lecture Theatre,300.0,639,Nucleus,Kings Buildings,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0639_01_1.15,rooms_table
+2.03 - Hawthorn Teaching Studio,132.0,639,Nucleus,Kings Buildings,Centrally Allocated Space,Teaching Studio,Teaching Studio,Yes,0639_02_2.03,rooms_table
+2.06 - Rowan,60.0,639,Nucleus,Kings Buildings,Centrally Allocated Space,Group Cluster Style,General Teaching,Yes,0639_02_2.06,rooms_table
+2.07 - Yew Lecture Theatre,150.0,639,Nucleus,Kings Buildings,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0639_02_2.07,rooms_table
+Teaching Laboratory 3.03,100.0,639,Nucleus,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0639_03_3.03,rooms_table
+B.01 - Alder Lecture Theatre,300.0,639,Nucleus,Kings Buildings,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0639_-1_B.01,rooms_table
+G.128 - Wet Teaching Lab,36.0,620,Peter Wilson Building,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0620_00_G.128,rooms_table
+G.155 - Computer Teaching Lab,48.0,620,Peter Wilson Building,Kings Buildings,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0620_00_G.155,rooms_table
+Main Lecture Theatre,372.0,612,Swann Building,Kings Buildings,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0612_01_1.02,rooms_table
+7.15,50.0,612,Swann Building,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0612_07_7.15,rooms_table
+7.20,58.0,612,Swann Building,Kings Buildings,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0612_07_7.20,rooms_table
+G.02 Non-destructive Teaching Lab,5.0,668,William Rankine,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0668_00_G.02,rooms_table
+1.18 Geotech Constitutive Modelling and Teaching Lab,12.0,668,William Rankine,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0668_01_1.18,rooms_table
+Classroom 14,72.0,616,Alrick,Kings Buildings,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0616_04_04.12-E,rooms_table
+C.01,13.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_C_C.01,rooms_table
+C.03,24.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_C_C.03,rooms_table
+C.04,18.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_C_C.04,rooms_table
+C.05,36.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_C_C.05,rooms_table
+C.06,44.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_C_C.06,rooms_table
+C.07,37.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_C_C.07,rooms_table
+C.08,37.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_C_C.08,rooms_table
+C.09,36.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_C_C.09,rooms_table
+C.12,34.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_C_C.12,rooms_table
+C.13 (West Court),150.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Specialist Space,Yes,0421_C_C.13,rooms_table
+C.15 Sculpture Court (Ground Floor),120.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_C_C.15,rooms_table
+C.15 Sculpture Court (Balcony),50.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_C_C.15-2,rooms_table
+C.19 + D.12,30.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_C_C.19_D.12,rooms_table
+C.26,24.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Classroom Style,ECA Specialist Space,Yes,0421_C_C.26,rooms_table
+C.28,24.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Boardroom Style,ECA Specialist Space,Yes,0421_C_C.28,rooms_table
+E.01,18.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_E_E.01,rooms_table
+E.02,9.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_E_E.02,rooms_table
+E.04,14.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_E_E.04,rooms_table
+E.06,15.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_E_E.06,rooms_table
+E.08,8.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_E_E.08,rooms_table
+E.09,10.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_E_E.09,rooms_table
+E.10,20.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_E_E.10,rooms_table
+E.11,21.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_E_E.11,rooms_table
+E.12,7.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_E_E.12,rooms_table
+E.13,14.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_E_E.13,rooms_table
+E.14,14.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_E_E.14,rooms_table
+E.15,26.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_E_E.15,rooms_table
+E.18,30.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_E_E.18,rooms_table
+E.19,15.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Specialist Space,Yes,0421_E_E.19,rooms_table
+E.20 + F.02,51.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_E_E.20_F.02,rooms_table
+E.21,21.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Specialist Space,Yes,0421_E_E.21,rooms_table
+Lecture Theatre E.22,218.0,421,ECA Main Building,Lauriston,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0421_E_E.22,rooms_table
+E.23,30.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_E_E.23,rooms_table
+E.25,50.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_E_E.25,rooms_table
+E.26,20.0,421,ECA Main Building,Lauriston,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0421_E_E.26,rooms_table
+F.08,11.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0421_F_F.08,rooms_table
+1.09,46.0,424,Evolution House,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0424_01_1.09,rooms_table
+1.18,12.0,424,Evolution House,Lauriston,Locally Allocated Space,Specialist Room,ECA Specialist Space,Yes,0424_01_1.18,rooms_table
+2.13 - Mac Computer Lab,21.0,424,Evolution House,Lauriston,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0424_02_2.13,rooms_table
+2.14 - PC Computer Lab,21.0,424,Evolution House,Lauriston,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0424_02_2.14,rooms_table
+3.20,10.0,424,Evolution House,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0424_03_3.20,rooms_table
+3.23,103.0,424,Evolution House,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0424_03_3.23,rooms_table
+4.09,70.0,424,Evolution House,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0424_04_4.09,rooms_table
+4.10,85.0,424,Evolution House,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0424_04_4.10,rooms_table
+4.17,18.0,424,Evolution House,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0424_04_4.17,rooms_table
+5.21,40.0,424,Evolution House,Lauriston,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0424_05_5.21,rooms_table
+Lecture Theatre O.17A,78.0,423,Hunter Building,Lauriston,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0423_O_O.17,rooms_table
+O.25 (ECA Cinema),60.0,423,Hunter Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Specialist Space,Yes,0423_O_O.25,rooms_table
+P.05,28.0,423,Hunter Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Specialist Space,Yes,0423_P_P.05,rooms_table
+P.06,34.0,423,Hunter Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0423_P_P.06,rooms_table
+P.07,30.0,423,Hunter Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0423_P_P.07,rooms_table
+P.13,40.0,423,Hunter Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0423_P_P.13,rooms_table
+P.17,46.0,423,Hunter Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0423_P_P.17,rooms_table
+P.18,24.0,423,Hunter Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Specialist Space,Yes,0423_P_P.18,rooms_table
+P.18A,5.0,423,Hunter Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Specialist Space,Yes,0423_P_P.18A,rooms_table
+Q.02,87.0,423,Hunter Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0423_Q_Q.02,rooms_table
+Q.15,10.0,423,Hunter Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Specialist Space,Yes,0423_Q_Q.15,rooms_table
+Q.16,20.0,423,Hunter Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Specialist Space,Yes,0423_Q_Q.16,rooms_table
+Q.18,8.0,423,Hunter Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Specialist Space,Yes,0423_Q_Q.18,rooms_table
+Q.20,30.0,423,Hunter Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Specialist Space,Yes,0423_Q_Q.20,rooms_table
+Q.21,20.0,423,Hunter Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Specialist Space,Yes,0423_Q_Q.21,rooms_table
+Q.24,29.0,423,Hunter Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Specialist Space,Yes,0423_Q_Q.24,rooms_table
+R.01,99.0,423,Hunter Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0423_R_R.01,rooms_table
+R.02,58.0,423,Hunter Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0423_R_R.02,rooms_table
+Lecture Theatre 3,193.0,201,Appleton Tower,Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0201_00_G.06,rooms_table
+Lecture Theatre 2,194.0,201,Appleton Tower,Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0201_00_G.07,rooms_table
+Lecture Theatre 1,193.0,201,Appleton Tower,Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0201_00_G.08,rooms_table
+Lecture Theatre 5,300.0,201,Appleton Tower,Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0201_01_1.06,rooms_table
+Lecture Theatre 4,307.0,201,Appleton Tower,Central,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0201_01_1.08,rooms_table
+Sydney Smith - Doorway 1,60.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0422_J_J.03,rooms_table
+1.312 - Doorway 1,60.0,113,"Medical School, Teviot",Central,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0422_J_J.05,rooms_table
+K.02,50.0,422,North-East Studio Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0422_K_K.02,rooms_table
+K.05,35.0,422,North-East Studio Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0422_K_K.05,rooms_table
+L.02,50.0,422,North-East Studio Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0422_L_L.02,rooms_table
+L.04,20.0,422,North-East Studio Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Studio Space,Yes,0422_L_L.04,rooms_table
+L.06 - ECA Ante Room,16.0,422,North-East Studio Building,Lauriston,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0422_L_L.06,rooms_table
+Martin Hall,84.0,401,New College,New College,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0401_01_1.01,rooms_table
+Althaus-Reid Room,32.0,401,New College,New College,Centrally Allocated Space,Classroom Style,General Teaching,Yes,0401_01_1.07,rooms_table
+Oldham Room,12.0,401,New College,New College,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0401_01_1.08,rooms_table
+Porteous Room,10.0,401,New College,New College,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0401_01_1.09,rooms_table
+Baillie Room,38.0,401,New College,New College,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0401_01M_01M.19,rooms_table
+McIntyre Room,18.0,401,New College,New College,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0401_02_2.17,rooms_table
+Elizabeth Templeton Lecture Room,108.0,401,New College,New College,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0401_02_2.28,rooms_table
+Lecture Theatre C7,90.0,646,Royal Observatory,Kings Buildings,Centrally Allocated Space,Specialist Room,General Teaching,Yes,0646_00_G.05(U),rooms_table
+Computer Lab U3,30.0,646,Royal Observatory,Kings Buildings,Locally Allocated Space,Specialist Room,Computer Laboratory,Yes,0646_01_1.3A(U),rooms_table
+R.02B,27.0,423,Hunter Building,Lauriston,Centrally Allocated Space,Boardroom Style,General Teaching,Yes,0423_R_R.02B,rooms_table
+MEC - Seminar Room 3,35.0,2305,Western General Hospital,Western General,Locally Allocated Space,Specialist Room,General Teaching,Yes,2305_03_8,rooms_table
+EG.02 (Lecture Theatre),180.0,2302,IGC,Western General,Locally Allocated Space,Lecture Theatre,General Teaching,Yes,2302_00_EG.02,rooms_table
+Usher Innovate,20.0,2716,Usher Building,Bioquarter,Locally Allocated Space,Boardroom Style,General Teaching,Yes,2716_00_G.22,rooms_table
+Usher Enlighten One,84.0,2716,Usher Building,Bioquarter,Locally Allocated Space,Classroom Style,General Teaching,Yes,2716_00_G.18,rooms_table
+Usher Enlighten Two,60.0,2716,Usher Building,Bioquarter,Locally Allocated Space,Classroom Style,General Teaching,Yes,2716_00_G.17,rooms_table
+Usher Engage,36.0,2716,Usher Building,Bioquarter,Locally Allocated Space,Group Cluster Style,General Teaching,Yes,2716_00_G.30,rooms_table
+85/88,64.0,640,Ashworth Labs,Kings Buildings,Locally Allocated Space,Specialist Room,Laboratory,Yes,0640_00_G.0085_G.0088,rooms_table
+Meeting Room 3,12.0,2716,Usher Building,Bioquarter,Locally Allocated Space,Boardroom Style,Meeting Room,Yes,2716_00_G.41,rooms_table
+Assembly Hall,320.0,401,New College,New College,Centrally Allocated Space,Lecture Theatre,General Teaching,Yes,0401_01_AssemblyHall,rooms_table
+LG.15,54.0,654,Murchison House,Kings Buildings,Centrally Allocated Space,Classroom Style,Teaching Studio,Yes,0654_-1_LG.15,rooms_table
+00M.03 Zoo Arch Lab - Doorway 4,10.0,113,"Medical School, Teviot",Central,Locally Allocated Space,Specialist Room,Laboratory,Yes,0113_00M_00M.03,rooms_table
+00M.07 Research Lab - Doorway 4,10.0,113,"Medical School, Teviot",Central,Locally Allocated Space,Specialist Room,Laboratory,Yes,0113_00M_00M.07,rooms_table
+C.02,8.0,421,ECA Main Building,Lauriston,Locally Allocated Space,Specialist Room,ECA Specialist Space,Yes,0421_C_C.02,rooms_table
+,25.0,,,Central,,,,,0008_02_2.417,inferred_from_events
+,40.0,,,Central,,,,,0008_02_2.419,inferred_from_events
+,208.0,,,Central,,,,,0103_01_1.B00,inferred_from_events
+,129.0,,,Central,,,,,0114_-1_B.01-B.02,inferred_from_events
+,220.0,,,Central,,,,,0114_-1_B.03-B.04,inferred_from_events
+,70.0,,,Central,,,,,0114_-1_B.05,inferred_from_events
+,620.0,,,Central,,,,,0114_00_G.01,inferred_from_events
+,202.0,,,Central,,,,,0210_-1_B.53,inferred_from_events
+,202.0,,,Central,,,,,0210_-1_B.54,inferred_from_events
+,15.0,,,Central,,,,,0247_00_G.12,inferred_from_events
+,30.0,,,Central,,,,,0252_01_1.2,inferred_from_events
+,13.0,,,Central,,,,,0252_01_1.4,inferred_from_events
+,13.0,,,Central,,,,,0252_02_2.2,inferred_from_events
+,15.0,,,Central,,,,,0252_02_2.3,inferred_from_events
+,13.0,,,Central,,,,,0252_03_3.3,inferred_from_events
+,,,,Central,,,,,0282_00_G.01/02/07/07A,inferred_from_events
+,30.0,,,Central,,,,,0310_00_G.04,inferred_from_events
+,40.0,,,Central,,,,,0310_00_G.05,inferred_from_events
+,10.0,,,Central,,,,,0310_01_1.01,inferred_from_events
+,25.0,,,Central,,,,,0311_01_1.23,inferred_from_events
+,20.0,,,New College,,,,,0401_00_G.19,inferred_from_events
+,30.0,,,Lauriston,,,,,0422_I_I.01,inferred_from_events
+,320.0,,,Central,,,,,0450_00_0.01,inferred_from_events
+,15.0,,,Central,,,,,0450_01_1.04,inferred_from_events
+,14.0,,,Central,,,,,0450_02_2.04,inferred_from_events
+,50.0,,,Central,,,,,0450_02_2.22,inferred_from_events
+,48.0,,,Central,,,,,0450_04_4.70,inferred_from_events
+,40.0,,,Kings Buildings,,,,,0621_01_1.302,inferred_from_events
+,20.0,,,Kings Buildings,,,,,0621_01_1.304,inferred_from_events
+,40.0,,,Kings Buildings,,,,,0648_00_G.02,inferred_from_events
+,10.0,,,Kings Buildings,,,,,0648_00_G.13,inferred_from_events
+,12.0,,,Kings Buildings,,,,,0648_01_1.55,inferred_from_events
+,12.0,,,Kings Buildings,,,,,0670_01_1.07,inferred_from_events
+,10.0,,,Easter Bush,,,,,0719_00_G.100,inferred_from_events
+,180.0,,,Easter Bush,,,,,0728_01_1.44,inferred_from_events
+,120.0,,,Easter Bush,,,,,0787_00_XX,inferred_from_events
+,12.0,,,BioQuarter,,,,,2700_00_G8125,inferred_from_events
+,6.0,,,BioQuarter,,,,,2700_02_S8212,inferred_from_events
+,6.0,,,BioQuarter,,,,,2700_02_S8213,inferred_from_events
+,25.0,,,BioQuarter,,,,,2716_00_01,inferred_from_events
+,25.0,,,BioQuarter,,,,,2716_00_02,inferred_from_events
+,20.0,,,BioQuarter,,,,,2716_01_04,inferred_from_events
+,15.0,,,BioQuarter,,,,,2716_02_05,inferred_from_events
+,15.0,,,BioQuarter,,,,,2716_03_07,inferred_from_events
+,295.0,,,Central,,,,,GreatHall_NicolsonSquare,inferred_from_events
+,295.0,,,Central,,,,,LectureTheatre_ChambersStreetMuseum,inferred_from_events
+,15.0,,,Central,,,,,Old College - Teaching Room 04,inferred_from_events
+,15.0,,,Central,,,,,Old College - Teaching Room 11,inferred_from_events
