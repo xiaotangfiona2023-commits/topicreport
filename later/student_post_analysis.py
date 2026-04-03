@@ -7,7 +7,6 @@ import matplotlib.pyplot as plt
 # =========================================================
 BASE_DIR = Path(r"C:\Users\Redmi\Desktop\topicreport")
 
-# attach 脚本输出目录
 ATTACH_DIR = BASE_DIR / "later" / "student_analysis_outputs"
 
 ANALYSIS_DIR = BASE_DIR / "later" / "analysis"
@@ -19,14 +18,10 @@ SUPPORT_DIR.mkdir(parents=True, exist_ok=True)
 
 SCENARIOS = ["S0", "S1", "S2"]
 
-# 最终展示用的场景和学生
 FINAL_SCENARIO = "S2"
 SELECTED_STUDENT = "Student00004"
 
-# 为了图更清楚：最终展示版最多保留几门课
 MAX_DISPLAY_EVENTS = 8
-
-# 同一天两门课至少相差多少分钟，才认为“不太相近”
 MIN_TIME_GAP_FOR_DISPLAY = 90
 
 
@@ -89,10 +84,7 @@ def load_schedule_with_students(scenario):
 
 
 def pick_well_spread_classes(df, max_events=8, min_gap=90):
-    """
-    为了最终展示图更清晰：
-    从一个学生的课里挑一些“时间不太相近”的课。
-    """
+
     if df.empty:
         return df.copy()
 
@@ -131,9 +123,7 @@ def pick_well_spread_classes(df, max_events=8, min_gap=90):
 
 def plot_bar_with_zoom(values, labels, title, xlabel, ylabel, save_path,
                        decimals=3, pad_ratio=0.15, min_pad=0.01):
-    """
-    自动缩窄 y 轴范围，并在柱子上标数值
-    """
+
     values = [float(v) for v in values]
 
     plt.figure(figsize=(6, 4))
@@ -189,7 +179,6 @@ for scenario in SCENARIOS:
     schedule_students = load_schedule_with_students(scenario)
     schedule_students_by_scenario[scenario] = schedule_students.copy()
 
-    # 只保留有 student_id 的记录做学生分析
     valid = schedule_students.copy()
     if "student_id" in valid.columns:
         valid = valid[valid["student_id"].ne("")].copy()
@@ -276,11 +265,7 @@ for scenario in SCENARIOS:
     prog_df["scenario"] = scenario
     programme_rows.append(prog_df)
 
-    # -----------------------------------------------------
     # Room utilisation
-    # schedule_with_students 里一个 opt_id 会因为多个学生重复多行
-    # 所以这里先按 opt_id 去重
-    # -----------------------------------------------------
     if not schedule_students.empty:
         schedule_unique = schedule_students.drop_duplicates(subset=["opt_id"]).copy()
     else:
@@ -355,10 +340,8 @@ summary_df = pd.DataFrame(summary_rows)
 programme_df = pd.concat(programme_rows, ignore_index=True) if programme_rows else pd.DataFrame()
 student_summary_full = pd.concat(student_summary_all, ignore_index=True) if student_summary_all else pd.DataFrame()
 
-# 核心输出
 summary_df.to_csv(CORE_DIR / "student_summary_by_scenario.csv", index=False)
 
-# 辅助输出
 programme_df.to_csv(SUPPORT_DIR / "programme_coverage_by_scenario.csv", index=False)
 student_summary_full.to_csv(SUPPORT_DIR / "student_level_summary_all_scenarios.csv", index=False)
 
@@ -489,11 +472,9 @@ one_student = one_student.sort_values(["day", "start_min", "end_min"]).copy()
 if one_student.empty:
     print(f"Warning: {SELECTED_STUDENT} not found in {FINAL_SCENARIO}.")
 else:
-    # 完整版表格（supporting）
     full_out = SUPPORT_DIR / f"selected_student_timetable_{FINAL_SCENARIO}.csv"
     one_student.to_csv(full_out, index=False)
 
-    # 展示版：挑时间不太相近的课（supporting）
     display_student = pick_well_spread_classes(
         one_student,
         max_events=MAX_DISPLAY_EVENTS,
@@ -502,7 +483,6 @@ else:
     display_out = SUPPORT_DIR / f"selected_student_timetable_display_subset_{FINAL_SCENARIO}.csv"
     display_student.to_csv(display_out, index=False)
 
-    # 单场景学生课表图（supporting）
     plt.figure(figsize=(10, 5))
 
     for _, r in display_student.iterrows():
@@ -526,7 +506,6 @@ else:
     plt.savefig(SUPPORT_DIR / f"selected_student_timetable_{FINAL_SCENARIO}.png", dpi=200)
     plt.close()
 
-    # 每天课数图（supporting）
     daily = (
         one_student.groupby("day")["event_id"]
         .nunique()
