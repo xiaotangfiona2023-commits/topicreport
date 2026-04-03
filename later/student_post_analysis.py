@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 # =========================================================
 BASE_DIR = Path(r"C:\Users\Redmi\Desktop\topicreport")
 
-ATTACH_DIR = BASE_DIR / "later" / "student_analysis_outputs"
+ATTACH_DIR = BASE_DIR / "later" / "student_outputs"
 
 ANALYSIS_DIR = BASE_DIR / "later" / "analysis"
 CORE_DIR = ANALYSIS_DIR / "core_outputs"
